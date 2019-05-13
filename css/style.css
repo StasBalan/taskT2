@@ -533,7 +533,7 @@ nav label {
         margin: 0;
     }
     .card {
-        width: 100%;
+        margin: 20px auto;
     }
     .bonus-program {
         padding-left: 20px;
